@@ -1,1 +1,1 @@
-"# eks-codepipeline-example" 
+# eks-codepipeline-example
